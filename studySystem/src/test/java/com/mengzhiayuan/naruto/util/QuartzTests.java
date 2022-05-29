@@ -1,6 +1,5 @@
 package com.mengzhiayuan.naruto.util;
 
-import com.mengzhiayuan.naruto.NarutoApplication;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.quartz.JobKey;

@@ -1,7 +1,6 @@
 package com.mengzhiayuan.naruto.event;
 
 import com.alibaba.fastjson.JSONObject;
-import com.mengzhiayuan.naruto.entity.Event;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.kafka.core.KafkaTemplate;
 import org.springframework.stereotype.Component;

@@ -2,13 +2,6 @@ package com.mengzhiayuan.naruto.event;
 
 
 import com.alibaba.fastjson.JSONObject;
-import com.mengzhiayuan.naruto.entity.DiscussPost;
-import com.mengzhiayuan.naruto.entity.Event;
-import com.mengzhiayuan.naruto.entity.Message;
-import com.mengzhiayuan.naruto.service.DiscussPostService;
-import com.mengzhiayuan.naruto.service.ElasticsearchService;
-import com.mengzhiayuan.naruto.service.MessageService;
-import com.mengzhiayuan.naruto.util.CommunityConstant;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.kafka.clients.consumer.ConsumerRecord;
 import org.springframework.beans.factory.annotation.Autowired;

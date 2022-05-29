@@ -1,8 +1,5 @@
 package com.mengzhiayuan.naruto.util;
 
-import com.mengzhiayuan.naruto.NarutoApplication;
-import com.mengzhiayuan.naruto.entity.DiscussPost;
-import com.mengzhiayuan.naruto.service.DiscussPostService;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;

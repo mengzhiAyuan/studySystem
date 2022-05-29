@@ -1,11 +1,5 @@
 package com.mengzhiayuan.naruto.quartz;
 
-import com.mengzhiayuan.naruto.entity.DiscussPost;
-import com.mengzhiayuan.naruto.service.DiscussPostService;
-import com.mengzhiayuan.naruto.service.ElasticsearchService;
-import com.mengzhiayuan.naruto.service.LikeService;
-import com.mengzhiayuan.naruto.util.CommunityConstant;
-import com.mengzhiayuan.naruto.util.RedisKeyUtil;
 import lombok.extern.slf4j.Slf4j;
 import org.quartz.Job;
 import org.quartz.JobExecutionContext;

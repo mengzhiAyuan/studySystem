@@ -1,8 +1,6 @@
 package com.mengzhiayuan.naruto.dao;
 
 
-import com.mengzhiayuan.naruto.NarutoApplication;
-import com.mengzhiayuan.naruto.entity.LoginTicket;
 import org.junit.jupiter.api.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;

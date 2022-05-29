@@ -1,10 +1,6 @@
 package com.mengzhiayuan.naruto.util;
 
 
-import com.mengzhiayuan.naruto.NarutoApplication;
-import com.mengzhiayuan.naruto.dao.DiscussPostMapper;
-import com.mengzhiayuan.naruto.dao.elasticsearch.DiscussPostRepository;
-import com.mengzhiayuan.naruto.entity.DiscussPost;
 import org.elasticsearch.action.search.SearchResponse;
 import org.elasticsearch.index.query.QueryBuilders;
 import org.elasticsearch.search.SearchHit;

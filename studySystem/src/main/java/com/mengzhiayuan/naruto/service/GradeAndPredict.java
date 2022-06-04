@@ -12,8 +12,8 @@ import java.util.List;
 public interface GradeAndPredict {
 
     //学生查看以往成绩
-    List<StudentsScore> getGrades(Integer student);
+    List<StudentsScore> getGrades(int  studentId);
     //学生查看预测的成绩
-    StudentsScore getPredictGrade(Integer studentId);
+    StudentsScore getPredictGrade(int studentId);
 
 }
